@@ -120,7 +120,7 @@ flutter test test/lib/pages/home_page_test.dart
 
 
 ## Relacionados
-- [Documentación oficial de Flutter Testing](hhttps://docs.flutter.dev/testing/overview)
+- [Documentación oficial de Flutter Testing](https://docs.flutter.dev/testing/overview)
 - [Widget Testing Cookbook](https://flutter.dev/docs/cookbook/testing/widget)
 - [Testing Best Practices](https://flutter.dev/docs/testing/best-practices)
 
